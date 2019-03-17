@@ -1,0 +1,13 @@
+*.user
+*.aeproperties
+.vs/
+*.tmp
+*.Generated.cs
+*.cachefile
+*.csvSettings
+*.sln.metaproj
+TriangleTest/TriangleTest/bin/
+TriangleTest/bin/
+TriangleTest/TriangleTest/obj/
+TriangleTest/obj/
+TriangleTest/TriangleTestContent/obj/
